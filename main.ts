@@ -9,5 +9,5 @@ serve(async (req) => {
         return await handleUpdate(req);
     }
 
-    return new Response("Hello from Deno Deploy!");
+    return new Response("Hello from Deno Deploy yaaaaay!");
 });

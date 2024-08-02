@@ -1,1 +1,1 @@
-https://api.telegram.org/bot{{bot_token}}/setWebhook?url={{supabase_url}}?secret={{bot_token}}
+https://api.telegram.org/bot{{bot_token}}/setWebhook?url={{supabase_url}}
